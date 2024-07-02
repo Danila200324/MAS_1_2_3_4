@@ -1,0 +1,35 @@
+# Compiled class file
+*.class
+
+# IntelliJ
+.idea/
+
+# Eclipse
+bin/
+gen/
+*.classpath
+*.project
+*.settings/
+
+target/
+
+spring-boot-starter-*.jar
+
+# VS Code
+.vscode/
+
+$RECYCLE.BIN/
+
+*.cab
+*.msi
+*.msm
+*.msp
+
+*.lnk
+
+.idea/
+*.iml
+
+.metadata/
+
+.vscode/
